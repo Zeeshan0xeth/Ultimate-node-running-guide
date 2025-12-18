@@ -73,7 +73,7 @@ git clone https://github.com/0xmoei/Linux_Node_Guide
 ### Screen
 * Sometimes we need a process to be running in the background while we exit the terminal and VPS
 * We can open a screen then enter our node commands in it
-* if we close the screen, we can return to it later
+* if we close the screen, we can return to it later.
 ```console
 # Install
 sudo apt install screen
