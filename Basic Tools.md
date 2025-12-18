@@ -491,4 +491,4 @@ Measured in Mbps — determines how fast your node syncs and communicates with p
 e.g. 100Mbps+ down/up recommended for stable performance.
 Unmetered VPS or dedicated servers are ideal.
 
-# THATS IT
+# THATS IT GG
