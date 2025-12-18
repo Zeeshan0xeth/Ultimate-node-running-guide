@@ -68,7 +68,7 @@ That’s the most important nodes to know about, there may be others like storag
 * The best way to find solutions for your errors is the project's discord or chat gpts
 
 ## FOLLOW ME
-* However you must have my [Github]() & [Twitter]() followed for new node testnet updates
+* However you must have my [Github]() & [Twitter]() followed for new node testnet updates & moree.
 
 ## HELP EDIT THIS GUIDE
 * Fork this repo to keep it in front of your eyes
